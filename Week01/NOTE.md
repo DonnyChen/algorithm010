@@ -7,7 +7,7 @@
 6. 学习国际站大牛的写法
 
 ### 基础知识：数组，链表，堆栈，队列
-![BaseKnowlege](../img/baseknowledge.png)
+![BaseKnowlege](../img/baseknowledge.PNG)
 ### Leetcode:283 移动零
 ![283](../img/283.png)
 

@@ -9,7 +9,7 @@
 ### 基础知识：数组，链表，堆栈，队列
 ![BaseKnowlege](../img/baseknowledge.PNG)
 ### Leetcode:283 移动零
-![283](../img/283.png)
+![283](../img/283.PNG)
 
 ### Leetcode:11 盛最多水的容器
 ![11](../img/11.jpg)
